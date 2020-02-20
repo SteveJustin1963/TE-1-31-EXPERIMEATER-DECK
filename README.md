@@ -18,3 +18,51 @@ These 10 projects are presented in a graduated form. The first project "HEE HAW 
 ## HEE HAW SIREN
 Only the first project is presented in this issue. We advise, however, to purchase the full kit of parts in readiness for the next issue. Keep them in a safe place. The complete circuit may look complex but each individual project is simple.  
 
+![](https://github.com/SteveJustin1963/TE-1-31-EXPERIMENTER-DECK/blob/master/deck-cct.png)
+
+## Complete list of parts for the 10 projects:
+* 1 - EXPERIMENTER DECK Nol PC board
+* 1 - CD 4001 IC
+* 1 - CD 4017 IC
+* R1 47k 1/4 watt
+* R2 100k
+* R3 3k3
+* R4 10k
+* R5 10k 0
+* R6 15R
+* R7 4k7
+* R8 4k7
+* R9 120R
+* R10 10k
+* R11 10k
+* R12 10k
+* R13 22R
+* Cl C2 6n8F 100v 
+* C3 6n8 Electrolytic 4u7F 10-35V
+* C4 22mfd 10 - 16v
+* C5 22nF 100v
+* C6 6n8F 100v
+* C7 3n3F 100v
+* C8 22nF 100v
+* C9 1nF 100v
+* C1O 3n9F 100v
+* 6 - Diodes IN 4148 or IN 914
+* RV1 - Mini trim pot 500k Cermet type VTP
+* RV2 - Mini trim pot 100k Cermet type VTP
+* 25 - LEDs or 24 red LEDs & 1 green LED.
+* Q1 - Transistor BC 557 or any PNP type
+* Q2 Q3 Q4 - BC 547 or any NPN type
+* 1 - Speaker 2 1/4", either 3,8,15,33 ohm
+* 30cm of 10 core ribbon cable or 10 pieces of coloured hook-up flex
+* 1 - Length of tinned copper wire or pieces cut from resistors
+* 1 - 6v lantern battery
+* Roll of fine solder (as thin as resistor leads)
+* Soldering iron - preferably a constant-heat type or a small mains-voltage iron. But NOT an instant heat iron as it will lift the copper circuit off the board.
+* Side-cutters 
+
+## EXPERIMENTER DECK PC board
+This is a full-size artwork. You can make your own board if you follow the instructions in the previous project "MAKE YOUR OWN PC BOARDS". Or you can buy it ready drilled or just etched and drill it yourself with a number 60 drill. Which ever way you choose, be sure to initiate yourself now. Time goes so fast. The next issue will be around and you haven't started. Don't forget: When soldering the parts, follow through the experiments in a logical order. This will not only make const- ruction easy but produce 10 different projects, all for about $16. 
+
+![]()
+![]()
+
