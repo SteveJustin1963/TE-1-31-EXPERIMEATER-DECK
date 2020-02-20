@@ -63,6 +63,6 @@ Only the first project is presented in this issue. We advise, however, to purcha
 ## EXPERIMENTER DECK PC board
 This is a full-size artwork. You can make your own board if you follow the instructions in the previous project "MAKE YOUR OWN PC BOARDS". Or you can buy it ready drilled or just etched and drill it yourself with a number 60 drill. Which ever way you choose, be sure to initiate yourself now. Time goes so fast. The next issue will be around and you haven't started. Don't forget: When soldering the parts, follow through the experiments in a logical order. This will not only make const- ruction easy but produce 10 different projects, all for about $16. 
 
-![]()
-![]()
+![](https://github.com/SteveJustin1963/TE-1-31-EXPERIMENTER-DECK/blob/master/pcb.png)
+![](https://github.com/SteveJustin1963/TE-1-31-EXPERIMENTER-DECK/blob/master/coke.png)
 
