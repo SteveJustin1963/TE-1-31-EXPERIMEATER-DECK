@@ -15,7 +15,7 @@
 ## 'THE DECK' What does it do?
 These 10 projects are presented in a graduated form. The first project "HEE HAW SIREN" uses only 25% of the parts --- each preceeding project uses either additional parts or a different combination of switches or potentiometer settings to give a completely different experiment. This gives the EXPERIMENTER DECK a wide variety of uses and an allowance has been made for additional experimenting such as  in project number 8, in which the pre-programmed tune can be re-programmed to any tune or scale you wish. The circuit board builds up to the final project THE ADVERTISING SIGN which uses all the parts including the circle of 15 LEDs to flash in a similar manner to lights running round a neon sign or movie screen at a drive-in. The combination of the duel frequency tone from the speaker, 3 LEDs from the train of LEDs acting in a pump-like manner and the 15 circulating LEDs, is really captivating in a darkened room. It's like a miniature sound-and-light display.
 
-https://easyeda.com/editor#id=1f1d7d2644394217816a4b7c54b5da9b
+https://easyeda.com/editor#id=1f1d7d2644394217816a4b7c54b5da9b|65ea74333fdc4d0387dcda6c4e0464bb
 
 ![](https://github.com/SteveJustin1963/TE-1-31-EXPERIMENTER-DECK/blob/master/deck-cct.png)
 
