@@ -88,3 +88,5 @@ Only the first project is presented in this issue. We advise, however, to purcha
 * Tinned copper wire
 * 6v lantern battery 
 
+![](https://github.com/SteveJustin1963/TE-1-31-EXPERIMENTER-DECK/blob/master/heehaw-cct.png)
+
